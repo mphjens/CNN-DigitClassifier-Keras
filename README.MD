@@ -5,7 +5,7 @@
 
 # Generate dataset
 * Edit file path in generateDigitImages.py
-* run 'python generateDigitImages.py'
+* `python generateDigitImages.py`
 
 # Training
 * edit DATASET_PATH in train.py
