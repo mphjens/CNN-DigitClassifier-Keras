@@ -10,7 +10,7 @@ from image import (
     get_image,
     show
 )
-from train import get_model, toMatrix
+from train import get_model
 
 
 def draw_contours(frame, contours):
